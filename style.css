@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;1,500;1,800&display=swap');
+html{
+font-size: 10px;
+}
+body {
+  font-size:15px;
+  line-height: 1.5;
+  font-family: 'Fraunces', sans-serif;
+  text-align:center;
+  margin:0;
+  background-image: url(https://fullhdoboi.ru/wp-content/uploads/_ph/27/194302760.jpg);
+background-size: 100%;
+}
